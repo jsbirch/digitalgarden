@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/posts/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# Selected Posts
 
 [[03. Permanent notes/Crises fast-forward historical processes|Crises fast-forward historical processes]]
 [[03. Permanent notes/Governments are remembered for one thing|Governments are remembered for one thing]]
