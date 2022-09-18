@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/posts/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ## Climate change
