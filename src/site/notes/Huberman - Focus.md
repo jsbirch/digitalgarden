@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/huberman-focus/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# How to Focus
 
 - our brains are suited to 90 minute cycles - it's probably not best to try and focus on deep work for a longer period
 - Aim at first for only 1-2 deep work periods per day
