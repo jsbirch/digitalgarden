@@ -2,30 +2,10 @@
 {"dg-publish":true,"permalink":"/posts/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-## Climate change
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+[[03. Permanent notes/Crises fast-forward historical processes|Crises fast-forward historical processes]]
+[[03. Permanent notes/Governments are remembered for one thing|Governments are remembered for one thing]]
+[[03. Permanent notes/If part of something, it's difficult to detect small changes in that thing|If part of something, it's difficult to detect small changes in that thing]]
+[[03. Permanent notes/New ideas are combinations of old ones|New ideas are combinations of old ones]]
+[[03. Permanent notes/Working shallowly semi-permanently reduces your capacity for deep work|Working shallowly semi-permanently reduces your capacity for deep work]]
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# Positive
-
-[[How we will fight climate change 1|How we will fight climate change 1]]
-	Including idea of [[02. Literature notes/the green vortex|the green vortex]]
-[[How we fixed the ozone layer 1|How we fixed the ozone layer 1]]
-
-
-# Politics of climate change
-
-- Likely that climate change policies will need a window:
-	- [[02. Literature notes/Political change is smoothest during windows of opportunity|Political change is smoothest during windows of opportunity]]
-	- [[02. Literature notes/Overton window|Overton window]]
-
-</div></div>
-
-
-## Lobbying 
