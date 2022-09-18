@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/huberman-focus/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/huberman-focus/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # How to Focus
