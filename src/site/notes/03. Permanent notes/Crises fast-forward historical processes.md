@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-permanent-notes/crises-fast-forward-historical-processes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"crises","permalink":"/crises/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Crises fast-forward historical processes
